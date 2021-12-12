@@ -1,3 +1,5 @@
+# Project available at https://hyperskill.org/projects/156
+
 ### Stage 3/4: Predicting future input
 import random
 
